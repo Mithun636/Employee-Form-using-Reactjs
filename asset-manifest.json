@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mithun636/Employee-Form-using-Reactjs.git/static/css/main.ef461674.css",
+    "main.js": "/Mithun636/Employee-Form-using-Reactjs.git/static/js/main.8cd53a41.js",
+    "index.html": "/Mithun636/Employee-Form-using-Reactjs.git/index.html",
+    "main.ef461674.css.map": "/Mithun636/Employee-Form-using-Reactjs.git/static/css/main.ef461674.css.map",
+    "main.8cd53a41.js.map": "/Mithun636/Employee-Form-using-Reactjs.git/static/js/main.8cd53a41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef461674.css",
+    "static/js/main.8cd53a41.js"
+  ]
+}
